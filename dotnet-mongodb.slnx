@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="global.json" />
+  </Folder>
   <Project Path="dotnet-mongodb.Api/dotnet-mongodb.Api.csproj" />
   <Project Path="dotnet-mongodb.Application/dotnet-mongodb.Application.csproj" />
   <Project Path="dotnet-mongodb.Domain/dotnet-mongodb.Domain.csproj" />
